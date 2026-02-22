@@ -1,1 +1,12 @@
-#67
+    "response": [
+        {
+            "datetime": 1771767922,
+            "filename": "axion-2.4-SOLACE-20260222134632-UNOFFICIAL-VANILLA-X6833B.zip",
+            "id": "75133bc1d859167d1e7099fdea12b376",
+            "romtype": "UNOFFICIAL",
+            "size": 1764239555,
+            "url": "https://github.com/Jonjeexeeee/OTA/releases/download/AxionOS-2.4/axion-2.4-SOLACE-20260222134632-UNOFFICIAL-VANILLA-X6833B.zip",
+            "version": "2.4"
+        }
+    ]
+}
