@@ -1,0 +1,4 @@
+AxionOS v2.4
+Build Date: 2026/02/26
+- Initial Release
+- Sync with latest Axion sources
