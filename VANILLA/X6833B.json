@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771836631,
-            "filename": "axion-2.4-SOLACE-20260223085036-UNOFFICIAL-VANILLA-X6833B.zip",
-            "id": "782a42e6e83752b3bbd594e82ae3ebf5",
+            "datetime": 1775201737,
+            "filename": "axion-2.5-BETA-20260403064151-UNOFFICIAL-VANILLA-X6833B.zip",
+            "id": "62083173c8e7df83688be247fc6dc031",
             "romtype": "UNOFFICIAL",
-            "size": 1764246464,
-            "url": "https://github.com/Jonjeexeeee/OTA/releases/download/2.4-VANILLA/axion-2.4-SOLACE-20260223085036-UNOFFICIAL-VANILLA-X6833B.zip",
-            "version": "2.4"
+            "size": 1785814848,
+            "url": "https://github.com/Jonjeexeeee/OTA/releases/download/AxionOS-2.5-VANILLA/axion-2.5-BETA-20260403064151-UNOFFICIAL-VANILLA-X6833B.zip",
+            "version": "2.5"
         }
     ]
 }
